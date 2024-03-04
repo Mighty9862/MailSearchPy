@@ -25,4 +25,4 @@
 
 ## Лицензия
 
-Этот проект лицензирован под лицензией [MIT License](LICENSE).
+Этот проект лицензирован под лицензией [GNU GENERAL PUBLIC LICENSE](LICENSE).
