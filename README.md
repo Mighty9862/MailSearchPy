@@ -17,7 +17,7 @@
 ## Требования
 
 - Python 3.x
-- Библиотеки tkinter и re
+- Библиотеки customtkinter и re
 
 ## Автор
 
